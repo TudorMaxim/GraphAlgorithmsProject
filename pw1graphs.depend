@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1522588335 source:e:\documente\tudor\infoarena\pw1graphs\graph.cpp
+	"graph.h"
+
+1522588305 e:\documente\tudor\infoarena\pw1graphs\graph.h
+	<vector>
+	<algorithm>
+	<string>
+	"costs.h"
+
+1522589148 e:\documente\tudor\infoarena\pw1graphs\costs.h
+	<map>
+	<iterator>
+
+1522589010 source:e:\documente\tudor\infoarena\pw1graphs\main.cpp
+	<fstream>
+	<iostream>
+	<cstring>
+	"graph.h"
+
+1523028940 source:e:\documente\tudor\facultate\semestrul 2\graphs\pw1graphs\graph.cpp
+	"graph.h"
+
+1524465008 e:\documente\tudor\facultate\semestrul 2\graphs\pw1graphs\graph.h
+	<vector>
+	<algorithm>
+	"costs.h"
+
+1523028429 e:\documente\tudor\facultate\semestrul 2\graphs\pw1graphs\costs.h
+	<unordered_map>
+	<string>
+
+1524468990 source:e:\documente\tudor\facultate\semestrul 2\graphs\pw1graphs\main.cpp
+	<fstream>
+	<iostream>
+	<cstring>
+	<queue>
+	<stack>
+	<algorithm>
+	"graph.h"
+
+1527972454 source:e:\documente\tudor\facultate\semestrul_2\graphs\pw1graphs\graph.cpp
+	"graph.h"
+
+1524465008 e:\documente\tudor\facultate\semestrul_2\graphs\pw1graphs\graph.h
+	<vector>
+	<algorithm>
+	"costs.h"
+
+1523028429 e:\documente\tudor\facultate\semestrul_2\graphs\pw1graphs\costs.h
+	<unordered_map>
+	<string>
+
+1528492276 source:e:\documente\tudor\facultate\semestrul_2\graphs\pw1graphs\main.cpp
+	<fstream>
+	<iostream>
+	<cstring>
+	<queue>
+	<stack>
+	<algorithm>
+	<map>
+	"graph.h"
+
